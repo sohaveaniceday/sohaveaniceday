@@ -1,4 +1,4 @@
-![alt text](https://i.kym-cdn.com/photos/images/newsfeed/000/655/681/4dc.gif)
+![alt text](https://img.pixers.pics/pho(s3:700/PI/59/7/700_PI597_cfd93291dc78dea3b667f98e1fd6cb80_5b7ab88adf8e9_.,621,700,jpg)/stickers-minion.jpg.jpg)
 
 <!--
 **sohaveaniceday/sohaveaniceday** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
