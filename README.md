@@ -1,4 +1,4 @@
-I'm currently learning typescript, AWS and tailwind. And playing The Last of Us Part II.
+I'm currently learning TypeScript, AWS and Tailwind. And playing The Last of Us Part II.
 
 ![joel](https://media1.tenor.com/images/a86c26269fd96e5f9e035f37f7e5a40a/tenor.gif)
 
