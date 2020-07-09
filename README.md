@@ -1,4 +1,4 @@
-<img src="https://i.kym-cdn.com/photos/images/newsfeed/000/655/681/4dc.gif" />
+![joel](https://i.kym-cdn.com/photos/images/newsfeed/000/655/681/4dc.gif)
 
 <!--
 **sohaveaniceday/sohaveaniceday** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
